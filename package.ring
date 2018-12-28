@@ -33,7 +33,7 @@ aPackageInfo = [
 		"extensions/ringodbc/odbclib.ring",
 		"extensions/ringodbc/ring_vmodbc.c",
 		"extensions/ringodbc/ring_vmodbc.h",
-		"ring2exe/lib/odbc.ring"
+		"ring2exe/libs/odbc.ring"
 	],
 	:windowsfiles = 	[
 
