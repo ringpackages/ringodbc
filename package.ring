@@ -26,7 +26,6 @@ aPackageInfo = [
 		],
 	:ringfolderfiles = [
 		"bin/odbclib.ring",
-		"bin/ring_odbc.dll",
 		"extensions/ringodbc/buildclang.sh",
 		"extensions/ringodbc/buildgcc.sh",
 		"extensions/ringodbc/buildvc.bat",
@@ -36,7 +35,7 @@ aPackageInfo = [
 		"ring2exe/libs/odbc.ring"
 	],
 	:windowsfiles = 	[
-
+		"bin/ring_odbc.dll"
 	],
 	:linuxfiles = 	[
 
